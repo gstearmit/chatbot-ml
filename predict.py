@@ -1,8 +1,7 @@
-
 # coding: utf-8
 
 # In[1]:
-
+# from builtins import
 
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
@@ -106,6 +105,7 @@ def response(sentence, userID='1', show_details=False):
                     if not 'context_filter' in i or                         (userID in context and 'context_filter' in i and i['context_filter'] == context[userID]):
                         if show_details: print ('tag:', i['tag'])
                         return print(random.choice(i['responses']))
+
 
             results.pop(0)
 

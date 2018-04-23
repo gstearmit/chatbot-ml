@@ -6,7 +6,7 @@
 
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
-from pyvi.pyvi import ViTokenizer
+from pyvi import ViTokenizer
 
 stemmer = LancasterStemmer()
 
