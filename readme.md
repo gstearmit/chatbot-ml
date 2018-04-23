@@ -17,11 +17,12 @@ We're open every day from 9am-9pm
 
 
 -------MacOS Install pip3 ----------------
-$ curl -O https://bootstrap.pypa.io/get-pip.py
-$ sudo python3 get-pip.py
+
+   $ curl -O https://bootstrap.pypa.io/get-pip.py
+   $ sudo python3 get-pip.py
 
 Cai Cac Thu Vien chay cho python3
 
-$ sudo pip3 install -U nltk
-$ sudo pip3 install -U numpy
-$ sudo pip3 install -U tflearn
+    $ sudo pip3 install -U nltk
+    $ sudo pip3 install -U numpy
+    $ sudo pip3 install -U tflearn
