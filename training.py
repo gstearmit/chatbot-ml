@@ -4,6 +4,8 @@
 # In[1]:
 
 
+# Training model
+
 import nltk
 from nltk.stem.lancaster import LancasterStemmer
 from pyvi import ViTokenizer
@@ -17,6 +19,19 @@ import random
 
 
 # In[2]:
+
+
+# data json
+# {   "tag": "menu",
+#         "patterns": ["I want to order", "What kinds of food are there?", "What is your delicous food?" ],
+#         "responses": ["Are you ready to order? Our restaurant have pizza, vegetable pasta, beefsteack. These is special of our restaurant", "Can I help you? This is menu. Please ask me if you have any question."]
+#        },
+
+#-----------------
+# tag (nhãn lớp cho nội dung nhập của người dùng)
+# patterns - mẫu câu đầu vào được training để phân lớp
+# responses - các câu trả lời (bot) được mapping để hồi đáp những request trước đó.
+
 
 
 import json
@@ -62,6 +77,8 @@ ngrams('a b c d e f g h', 4)
 
 # In[3]:
 
+# đánh lại nhãn các từ không có ý nghĩa
+# ignore_words : danh sách các từ xuất hiện nhiều trong văn bản nhưng lại không có giá trị trong việc phân lớp
 
 words = []
 classes = []

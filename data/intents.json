@@ -20,6 +20,10 @@
          "patterns": ["Are you open today?", "When do you open today?", "What are your hours today?"],
          "responses": ["We're open every day from 9am-9pm", "Our hours are 9am-9pm every day"]
        },
+        {"tag": "Shop giờ cửa",
+         "patterns": ["Bạn có mở cửa hôm nay không?", "Khi nào bạn mở cửa hôm nay?", "Giờ của bạn hôm nay là gì?"],
+         "responses": ["Chúng tôi mở cửa hàng ngày từ 9 giờ sáng đến 9 giờ tối", "Giờ của chúng tôi là 9 giờ sáng-9 giờ tối mỗi ngày"]
+       },
        {"tag": "completeorder",
         "patterns": ["that is all", "Yes, we'll have the chicken with vegetables, and the vegetable pasta please", "Just some water please"],
         "responses": ["Thankyou for ordering, Please wait me some minutes."]

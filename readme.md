@@ -27,3 +27,19 @@ Cai Cac Thu Vien chay cho python3
     $ sudo pip3 install -U nltk
     $ sudo pip3 install -U numpy
     $ sudo pip3 install -U tflearn
+
+
+
+TensorBroad :
+
+      $ tensorboard --logdir="./tflearn_logs" --port 6006
+
+Fixed Error : "Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA"
+
+     import os
+     os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
+
+
+Step 7: Install Tensorflow and other dependencies
+
+$ pip3 install -r requirements.txt
