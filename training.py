@@ -108,6 +108,8 @@ print (len(words), "unique stemmed words", words)
 
 
 #Create training data
+# chuyển dữ liệu Text sang dạng tensor number
+
 training = []
 output = []
 

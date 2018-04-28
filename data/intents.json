@@ -35,6 +35,254 @@
       {"tag": "thanks",
        "patterns": ["Thanks", "Thank you", "That's helpful"],
        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+
+
+       {"tag": "Câu hỏi tổng quan",
+         "patterns": [
+           "Liên hệ với Weshop Việt Nam", "Vì sao Weshop trở thành website số 1 về lĩnh vực hỗ trợ mua hàng và vận chuyển hàng hóa?",
+           "Chính sách về thông tin cá nhân của khách hàng tại Weshop như thế nào?",
+           "Ngày làm việc là gì?",
+           "Có hạn chế nào khi đăng ký mua hàng tại Weshop không?"
+         ],
+         "responses": [
+           "Quý khách có thể liên hệ với Weshop Việt Nam để được hỗ trợ thông qua các hình thức sau đây: Gọi điện trực tiếp thông qua Hotline :093-277-572 - Hoặc qua số Tổng đài chính của Weshop: 1900-6755.Tư vấn trực tiếp chăm sóc khách hàng thông qua Skype, Yahoo ở phần -Hỗ trợ- góc bên tay trái màn hình hoặc qua Livechat ở góc phải màn hình. Hoặc quý khách có thể gửi email hỏi đáp, khiếu nại, thắc mắc về sản phẩm và dịch vụ với đội ngũ nhân viên hỗ trợ của Weshop Việt Nam (ngoài giờ hành chính) qua hộp thư: support@weshop.com.vn để được hỗ trợ trong thời gian sớm nhất.",
+           "Chúng tôi tự hào là sàn thương mại điện tử xuyên biên giới đầu tiên và dẫn đầu khu vực Đông Nam Á cung cấp dịch vụ mua sắm qua mạng thuận tiện với các mặt hàng nhập đa dạng phong phú từ Mỹ, Nhật Bản, Hàn Quốc, Trung Quốc và các nước khác. Khi mua hàng tại Weshop, chúng tôi cam kết hỗ trợ khách hàng toàn bộ quy trình làm thủ tục hải quan, đảm bảo sản phẩm được chuyển đến tận nhà khách hàng trong thời gian ngắn nhất.",
+           "Chúng tôi hiểu rằng khi mua hàng trên mạng, khách hàng quan tâm đến  bảo mật thông tin cá nhân. Đối với chúng tôi, thông tin cá nhân của khách hàng đóng vai trò quan trọng trong sự phát triển của công ty. Do vậy, chúng tôi tôn trọng và cam kết không trao đổi hay để lộ thông tin cá nhân của khách hàng. Xin vui lòng đọc kỹ thông tin chi tiết được đăng tải tại phần Chính sách bảo mật.",
+           "Ngày làm việc được xác định là các ngày làm việc trong tuần từ thứ hai đến thứ 6, không tính ngày cuối tuần và ngày lễ.",
+           "Ít nhất Khách hàng phải đủ 18 tuổi để mở tài khoản và sử dụng các dịch vụ tại Weshop. Ngoài ra, khi đăng ký mở tài khoản, Khách hàng có trách nhiệm tuân thủ các điều khoản,  điểu kiện và chính sách bảo mật của chúng tôi. Trong trường hợp sử dụng email của công ty để đăng ký tài khoản, Khách hàng lưu ý phải được sự đồng ý từ phía công ty Khách hàng đang làm việc."
+         ],
+         "context_set": ""
+        },
+        {"tag": "Hỏi về tài khoản",
+         "patterns": [
+           "Tôi có thể sử dụng dịch vụ của Weshop ngay khi đăng ký không?",
+           "Tôi sử dụng địa chỉ Weshop của tôi như thế nào?",
+           "Tài khoản Weshop của tôi hoạt động như thế nào?",
+           "Tại sao thông tin đăng nhập của tôi bị từ chối?",
+           "Tại sao tôi không sử dụng tài khoản Facebook để đăng ký được?",
+           "Tôi không nhận được email xác nhận đăng ký?",
+           "Làm cách nào để cho Weshop biết nếu tôi gặp vấn đề?",
+           "Tôi phải làm gì khi nghi ngờ mật khẩu bị đánh cắp?",
+           "Làm thế nào để đổi mật khẩu của tài khoản WeShop?",
+           "Làm thế nào để thể thay đổi địa chỉ email đăng ký của tài khoản đang tồn tại?"
+         ],
+         "responses": [
+           "Sau khi hoàn thành quá trình đăng ký và xác nhận tài khoản qua email, Khách hàng có thể khám phá và sử dụng tất cả các dịch vụ mà Weshop cung cấp. Ngay cả khi chưa có tài khoản, Khách hàng hoàn toàn có thể đặt hàng và thanh toán trên website của chúng tôi. Tuy nhiên chúng tôi khuyến khích Khách hàng của mình tạo tài khoản để tận hưởng tất cả những hỗ trợ tốt nhất mà Weshop mang tới cho Khách hàng.",
+           "Hãy đăng ký để trở thành thành viên tại Weshop! Chỉ cần đăng ký online, Khách hàng đã có ngay một địa chỉ  Weshop. Với dịch vụ Chuyển hàng giúp tôi, khi Khách hàng thanh toán với người bán, hãy sử dụng địa chỉ Weshop là địa chỉ giao nhận hàng.",
+           "Khi đăng ký tài khoản tại Weshop, quý khách có thể tiết kiệm chi phí và dễ dàng theo dõi đơn hàng của mình với nhiều chương trình và dịch vụ ưu đãi mà WeShop dành cho Khách hàng đã đăng ký thành viên.",
+           "Khi thông tin đăng nhập bị từ chối, xin vui lòng kiểm tra lại tên đăng nhập và mật khẩu. Nếu Khách hàng quên tên đăng nhập hoặc mật khẩu hoặc không nhớ chính xác trước đây mình có  tạo tài khoản tại Weshop không, trong trường hợp này, hãy ấn vào nút - Quên mật khẩu- ở phần đăng nhập và điền địa chỉ email. Nếu Khách hàng vẫn không thể truy cập vào tài khoản của mình, vui lòng liên hệ bộ phận Chăm sóc Khách hàng để nhận hỗ trợ. Khách hàng cũng vui lòng lưu ý rằng WeShop chỉ cho phép một địa chỉ email tạo được một tài khoản WeShop tương ứng.",
+           "Để đăng ký bằng tài khoản Facebook, Khách hàng đồng ý cung cấp email và trang cá nhân tài khoản Facebook của Khách hàng cho Weshop. Chúng tôi sẽ gửi những thông báo quan trọng, ví dụ như sản phẩm đang chờ làm thủ tục hải quan, sản phẩm đã về đến kho hàng của Weshop,... đến email của Khách hàng.Nếu Khách hàng không muốn chia sẻ email đăng nhập facebook cho chúng tôi, Khách hàng có thể đăng ký tài khoản với một email khác.Hãy kết nối tài khoản Facebook và vào phần cài đặt cá nhân. Sau đó, nhấp chuột vào Apps. Chọn Weshop app và nhấp chuột vào Remove. Gỡ bỏ phần đăng ký tại Weshop. Khi Khách hàng đăng ký lại, xin vui lòng chia sẻ địa chỉ email với Weshop. Và như thế phần cài đặt đã hoàn thành, Khách hàng có thể đăng nhập lại vào Weshop từ Facebook.",
+           "Thông thường sau khi đăng ký, Khách hàng sẽ nhận được email xác nhận đăng ký. Trong trường hợp bạn không nhận được email này, bạn vui lòng kiểm tra phần spam. Trường hợp thư xác nhận nằm trong phần spam, bạn lưu ý không để bộ lọc spam chặn email của chúng tôi. Nếu bạn vẫn không nhận được email xác nhận trong vòng 30 phút, xin vui lòng liên hệ bộ phận chăm sóc khách hàng của chúng tôi theo số điện thoại 0932 277 572 hoặc email support@weshop.com.vn.",
+           "Nếu Khách hàng có thắc mắc hoặc gặp bất cứ vấn đề gì trong quá trình mua sắm và sử dụng dịch vụ tại Weshop, xin vui lòng liên hệ bộ phận chăm sóc khách hàng qua số điện thoại đường dây nóng của chúng tôi:Hotline:  0932 277 572 Email: support@weshop.com.vn]", "Khi nghi ngờ mật khẩu bị đánh cắp, việc đầu tiên hãy liên lạc với chúng tôi ngay lập tức qua live chat, đường dây nóng hoặc email; ngay lập tức chúng tôi sẽ chặn hoặc khoá tài khoản của Khách hàng để ngăn chặn các nguy cơ lộ thông tin cá nhân. Bước tiếp theo, xin vui lòng lấy lại mật khẩu bằng việc nhấp vào mục Quên mật khẩu, phần Đăng nhập. Chúng tôi sẽ gửi một mật khẩu tạm thời đến email Khách hàng đăng ký tại Weshop. Khách hàng vui lòng làm theo hướng dẫn trong email để tạo mật khẩu mới cho tài khoản của mình. Lưu ý, mật khẩu sẽ có tính bảo mật cao hơn khi bao gồm chữ in hoa, số kết hợp với chữ cái thường.",
+           "Để đổi mật khẩu xin vui lòng tuân thủ các bước dưới đây: Đăng nhập vào Weshop bằng tài khoản của bạn. Nhấp chuột vào ô Trang cá nhân, sau đó di chuyển chuột đến phần Hồ sơ, nhấp Thay đổi mật khẩu. Nhập mật khẩu cũ, mật khẩu mới bạn muốn thay đổi, xác nhận mật khẩu mới, và Lưu. Hệ thống trả lại kết quả: Lưu thành công. Mật khẩu của bạn đã được thay đổi thành công!", "Để thay đổi email Khách hàng đã đăng ký trên tài khoản, vui lòng thực hiện các bước sau: . Đăng nhập vào Tài khoản Weshop, vào mục Trang cá nhân. Vào phần Hồ sơ, chọn phần email, tích vào -Chỉnh sửa email- (Edit email). Nhập địa chỉ email cũ, email Khách hàng muốn đổi, Mã xác nhận và xác thực. Nhấp vào đường link trong email, hệ thống sẽ gửi mã OTP đến số điện thoại của Khách hàng. Nhập mã OTP mà hệ thống Weshop đã gửi, mã xác nhận và Kích hoạt. Khách hàng đã đổi địa chỉ email thành công!"
+         ]
+        },
+        {"tag": "Hỏi về cấp độ thành viên",
+         "patterns": [
+           "Làm thế nào để thay đổi hạng thành viên?",
+           "Quyền lợi khi nâng hạng lên hạng thành viên VIP là gì?",
+           "Hạng thành viên của tôi có bị tụt hạng nếu tôi không có hoạt động mua sắm trong một thời gian?"
+         ],
+         "responses": [
+           "Từ ngày 1/8/2017 weshop có 2 hạng thành viên: thành viên thường và VIP. Để thay đổi hạng Thành viên, Khách hàng vui lòng thực hiện các bước sau: . Đăng nhập vào Tài khoản Weshop . Vào Trang cá nhân, vào mục Thành viên . Hệ thống sẽ hiển thị Hạng thành viên hiện tại của Khách hàng, và các lựa chọn Hạng thành viên để Khách hàng thay đổi . Nhấp chuột vào Chọn hạng thành viên, thanh toán Hóa đơn phí thường niên của Hạng thành viên mà Khách hàng muốn đổiSau khi thanh toán thành công, hệ thống sẽ gửi email xác nhận hạng Thành viên của Khách hàng đã được thay đổi thành công!",
+           "Nâng hạng lên thành viên V.I.P khách hàng sẽ được hưởng một số ưu đãi đặc biệt:+ Được chiết khấu 20% phí dịch vụ và áp dụng cho mọi đơn hàng.+ Có cơ hội nhận được Voucher lên tới 1.000.000đ khi trở thành Best Customer of the Month. + Được nhân viên tư vấn Weshop hỗ trợ đặt hàng trực tiếp, chính xác và nhanh chóng nhất.", "Khách hàng sẽ bi chấm dứt lợi ích thành viên VIP khi quý khách không đạt hạn mức chi tiêu tại thời điểm xét duyệt."
+         ]
+        },
+
+        {"tag": "Hỏi về ví",
+         "patterns": [
+           "Tôi có thể rút tiền từ ví điện tử không?",
+           "Tỷ giá ngoại tệ là gì?", "Đồng tiền nào được sử dụng cho việc thanh toán?",
+           "Tài khoản ví của tôi là gì?", "Mã giao dịch là gì?",
+           "Tại sao khi nạp tiền tôi không thấy xuất hiện trong Ví mua sắm?",
+           "Làm thế nào để kiểm tra tôi đã nạp tiền thành công vào tài khoản?",
+           "Lý do khoản tiền nạp vào ví của tôi bị từ chối?"
+         ],
+         "responses": [
+           "Nếu Tài khoản của Khách hàng không có khoản nợ thanh toán nào, Khách hàng có thể rút toàn bộ số tiền còn lại ở số dư tài khoản ví. Khách hàng có thể lựa chọn Rút tiền về tài khoản Ví ngân lượng của Khách hàng hoặc rút tiền mặt tại Văn phòng của Weshop. Vui lòng vào phần Số dư Ví, lập lệnh Rút tiền và thực hiện các bước theo hướng dẫn.",
+           "Khi mua hàng trực tuyến từ nước ngoài, chúng tôi biết Khách hàng quan tâm giá sản phẩm được quy đổi theo giá trị tiền nội tệ chứ không phải là giá USD ở trang web. Chúng tôi sử dụng công cụ chuyển đổi tiền tệ, với tỷ giá hiển thị trên website. Tỷ giá thì luôn thay đổi mỗi ngày, Khách hàng lưu ý kiểm tra tỷ giá trước khi mua hàng.",
+           "Tất cả các khoản thanh toán phát sinh tại Weshop đều được thực hiện bằng Việt Nam đồng (VNĐ).  Các số liệu hiển thị dưới dạng tiền tệ khác nều mang tính chất tính toán, và sẽ đều được quy đổi về VNĐ.",
+           "Đó là số dư tiền mặt ở tài khoản weshop của Khách hàng. Trong trường hợp hoàn tiền do hết hàng hoặc đơn hàng bị huỷ, số tiền đó sẽ được chuyển thẳng tới số dư tài khoản của Khách hàng. Số tiền đó Khách hàng có thể dùng để trả cho lần đặt hàng tiếp theo.",
+           "Mã giao dịch là mã được cung cấp từ cổng thanh toán mà Khách hàng sử dụng khi thanh toán đơn hàng trên Weshop. Mã giao dịch sẽ xuất hiện sau khi Khách hàng thanh toán thành công. Xin vui lòng lưu lại mã giao dịch để thuận tiện cho quá trình theo dõi đơn hàng.",
+           "Sau khi nạp tiền, nếu Khách hàng không thấy tiền có trong ví, có thể quy trình nạp tiền của bạn có sai sót. Sau khi chuyển tiền cho chúng tôi, Khách hàng cần thông báo với Weshop để chúng tôi thực hiện việc xác minh. Xin vui lòng đi tới Trang cá nhân, phần Số dư Ví - trang - Nạp tiền-, hoàn thành mẫu đơn nạp tiền. Sau đó, chúng tôi sẽ gửi đến Khách hàng email thông báo về việc xác minh giao dịch trong vòng vài giờ làm việc.",
+           "Sau khi đăng nhập vào Weshop, vào Trang cá nhân. Sau đó, vào phần Số dư Ví. Khách hàng có thể kiểm tra quá trình nạp tiền của mình đã thành công, bị từ chối hay vẫn đang trong tình trạng được xác minh.",
+           "Tiền nạp của Khách hàng bị từ chối nếu một phần thông tin hoặc số tiền Khách hàng nạp không khớp với thông tin được ghi nhận trên hệ thống giao dịch. Do vậy, xin vui lòng kiểm tra lại một lần nữa giao dịch được ghi nhận ở ngân hàng và thực hiện lại quá trình nạp tiền sao cho ngày phát sinh giao dịch và số tiền nạp vào phải khớp nhau."
+         ]
+        },
+
+        {"tag": "Hỏi về cách thức thanh toán",
+         "patterns": [
+           "Tôi có thể biết được tổng chi phí trước khi đặt hàng không?",
+           "Tôi thanh toán cho Weshop như thế nào?",
+           "Tôi có thể thanh toán bằng tiền mặt không?",
+           "Weshop sẽ gửi hoá đơn yêu cầu thanh toán cho Khách hàng như thế nào?",
+           "Các hình thức thanh toán tại Weshop?", "Thông tin cá nhân khi thanh toán có được bảo mật an toàn không?",
+           "Mã số bảo mật và xác thực (CVN/CVC) là gì?",
+           "Tôi có thể lấy hoá đơn phí vận chuyển không?",
+           "Tại sao thẻ tín dụng của tôi bị từ chối?",
+           "Tôi có thể thanh toán cho Người bán Mỹ nếu thẻ tín dụng không phải thẻ của Mỹ không?"
+         ],
+         "responses": [
+           "Trước khi đặt hàng, Weshop sẽ giúp Khách hàng ước lượng tổng chi phí đơn hàng bao gồm cả chi phí vận chuyển dựa vào giá trị thực tế và cân nặng của sản phẩm. Tuy nhiên, chi phí thực tế có thể cao hơn hoặc thấp hơn chi phí ước tính này.",
+           "Sau khi đặt hàng thành công, Khách hàng sẽ nhận được hoá đơn về việc đặt hàng qua email. Nhấp chuột vào phần đường dẫn và Thanh toán ngay. Sau đó sẽ có bảng hiện ra các phương thức thanh toán. Nếu Khách hàng có mã giảm giá, nhập mã đó vào ô mã giảm giá, chọn phương thức thanh toán và nhấp chuột vào phần Thanh toán. Sau khi hoàn tất quá trình thanh toán, Khách hàng nhận được mã số giao dịch và email thông báo về giao dịch thành công. Nếu Khách hàng không nhận được email, xin vui lòng liên hệ ngay với bộ phận chăm sóc khách hàng.",
+           "Chúng tôi chấp nhận thu tiền mặt tại văn phòng. Đối với khoản thanh toán thứ 2 của đơn hàng, chúng tôi chấp nhận hình thức COD (Thu tiền giao hàng).",
+           "Weshop sẽ gửi hoá đơn vào email đăng ký tài khoản và thông báo ở tài khoản Weshop. Vui lòng làm theo hướng dẫn ở hoá đơn để thực hiện thanh toán.",
+           "Weshop chấp nhận các hình thức thanh toán sau: Thanh toán qua Thẻ tín dụng quốc tế VISA, Mastercard và JBC (Mất phí ). Thanh toán online qua Internet Banking bằng tài khoản Ngân hàng nội địa (Phí ngân hàng thu, hoàn thành 2-5 phút) Chuyển khoản tại cây ATM của các Ngân hàng nội địa (Phí ngân hàng thu) . Chuyển khoản tại quầy giao dịch ngân hàng (Phí ngân hàng thu). Thanh toán bằng số dư tài khoản ví Ngân Lượng (Miễn phí, hoàn thành 2-5 phút) . Thanh toán bằng ví Weshop (Miễn phí, hoàn thành 2-5 phút) Thanh toán tiền mặt trực tiếp tại văn phòng của Weshop.com.vn (Miễn phí) Hà Nội: Tầng 12A, toà nhà VTC online, 18 Tam Trinh, P. Minh Khai, Q. Hai Bà Trưng Tp.Hồ Chí Minh: Lầu 3, tòa nhà VTC online, 132 Cộng Hòa, Phường 4, Q. Tân Bình",
+           "Weshop đã thiết lập các cơ chế bảo mật đảm bảo an toàn khi thực hiện các giao dịch thanh toán.",
+           "Tất cả các thẻ ghi nợ và thẻ tín dụng đều có mã bảo mật. Mã bảo mật được xác định bởi các ngân hàng phát hành thẻ của bạn và không được lưu trữ hay in ấn ở bất cứ nơi nào khác. Hầu hết trên các thẻ, mã số bảo mật là 3 số cuối ở mặt sau của thẻ cạnh phần chữ ký chủ thẻ. Trong trường hợp không tìm được số CVN, Khách hàng hãy liên lạc với ngân hàng phát hành thẻ. Lưu ý: Riêng với American Express số CVN được in ở trước phần số tài khoản.",
+           "Khách hàng có thể in hoá đơn vận chuyển trong phần Hóa đơn của tôi, chọn Hóa đơn cần in.",
+           "Có nhiều lý do dẫn tới việc thẻ tín dụng của Khách hàng bị từ chối. Hãy liên hệ ngay với bên phát hành thẻ để tìm hiểu thông tin chi tiết.",
+           "Sử dụng thẻ tín dụng không phát hành tại Mỹ Một số website ở Mỹ chấp nhận thanh toán bằng thẻ tín dụng quốc tế (thẻ phát hành ngoài nước Mỹ) - Một số website thì không chấp nhận. Vậy xin Khách hàng vui lòng kiểm tra với trang web mà Khách hàng đặt hàng để xem thẻ tín dụng không phát hành tại Mỹ có được chấp nhận hay không. Thẻ trả trước, Khách hàng có thể tìm và sử dụng dịch vụ trả trước hoặc nạp tiền trước, sau đó Khách hàng đặt mua và đăng ký chuyển đến địa chỉ của Weshop. Thẻ ảo Khách hàng có thể mua thẻ ảo - thẻ tín dụng không phát hành ở Mỹ. Khi đăng ký Khách hàng nhớ cung cấp địa chỉ của Weshop Mỹ để thuận tiện cho lần đặt hàng sau. Sử dụng dịch vụ Mua hàng giúp tôi của Weshop . Đơn giản hơn, hãy sử dụng Dịch vụ Mua hàng giúp tôi của Weshop, với tiêu chí: Mua sắm quốc tế, thanh toán địa phương. Lúc này Khách hàng sẽ không phải nghĩ ngợi chuyện thẻ tín dụng có được website chấp nhận hay không"
+         ]
+       },
+
+       {"tag": "Hỏi về đơn hàng",
+        "patterns": [
+          "Tôi có thể đặt hàng trực tiếp trên WeShop không?",
+          "Dịch vụ Mua hàng giúp tôi là gì? Tôi đặt hàng từ dịch vụ này như thế nào?",
+          "Dịch vụ Chuyển hàng giúp tôi là gì? Làm thế nào để tôi có thể sử dụng Dịch vụ này?",
+          "Tôi có thể sửa hoặc huỷ bỏ đơn hàng không?", "Tôi có thể thêm sản phẩm mới vào đơn hàng hiện tại không?",
+          "Tôi có được nhận giảm giá hoặc khuyến mại từ người bán không?",
+          "Tôi có thể mặc cả với người bán nếu tôi mua số lượng lớn không?",
+          "Tôi có thể mua từ website khác ngoài ebay, amazon không?",
+          "Tôi có thể đặt thức ăn, chất lỏng hoặc thuốc không?",
+          "Tôi có phải thanh toán VAT không?"
+        ],
+        "responses": [
+          "Có, Khách hàng có thể tìm kiếm sản phẩm từ Ebay, Amazon .. trực tiếp trên WeShop, sau đó đặt hàng và thanh toán với nhiều phương thức thanh toán khác nhau.",
+          "Nếu Khách hàng không thể đặt hàng trực tiếp từ các trang web của Mỹ, Weshop sẽ giúp đặt hàng và chuyển hàng đến tận tay Khách hàng trong khoảng thời gian đã cam kết. Để sử dụng dịch vụ Mua hàng giúp tôi, Khách hàng thực hiện theo những bước sau: Đăng ký và đăng nhập WeShop (Weshop có hỗ trợ thanh toán không cần đăng nhập) Tìm sản phẩm ở ô tìm kiếm hoặc có thể chọn sản phẩm ở bất kì website nào, sau đó copy và paste link sản phẩm vào ô tìm kiểm. Sau khi chọn sản phẩm, kiểm tra lại các đơn hàng trong giỏ hàng rồi chọn hình thức thanh toán phù hợp . Trong trường hợp Khách hàng muốn đấu giá, Khách hàng vào phần Ví Weshop để nạp tiền. Chúng tôi sẽ đóng băng số tiền tương ứng với số tiền Khách hàng muốn đấu giá.  Nếu Khách hàng đấu giá thắng, chúng tôi giải phóng số tiền đóng băng và Khách hàng có thể thực hiện thanh toán cho sản phẩm đấu giá như bình thường. Tổng tiền thanh toán hoá đơn lần 1 = Giá sản phẩm + Chi phí vận chuyển ở Mỹ + Thuế bang. Chúng tôi sẽ tiến hành đặt hàng cho Khách hàng ngay khi hóa đơn thanh toán đầu tiên được hoàn thành. Sau đó chúng tôi sẽ cập nhật kịp thời để Khách hàng theo dõi tình trạng đơn hàng. Khi đơn hàng của Khách hàng về tới kho Mỹ, chúng tôi sẽ tiến hành kiểm hàng và xuất hoá đơn thanh toán lần 2. Hoá đơn lần 2 sẽ bao gồm các khoản phải trả sau: chi phí vận chuyển từ Mỹ về Việt Nam tính trên cân nặng tính phí (đã bao gồm thuế, phí vận chuyển tới tay khách hàng) + phí dịch vụ Weshop. Nhận thông báo chuyển hàng và đánh giá dịch vụ của chúng tôi.",
+          "Nếu Khách hàng có thẻ tín dụng và thẻ tín dụng đó được chấp nhận thanh toán ở nước ngoài, Khách hàng có thể sử địa chỉ kho của Weshop làm địa chỉ chuyển hàng về. Khách hàng vào trang web của người bán, đăt hàng và sử dụng địa chỉ kho của Weshop là địa chỉ nhận hàng. Sau khi  thanh toán thành công, Khách hàng vào phần tài khoản Weshop và cập nhật thông tin về đơn hàng sắp tới ở phần - Nhờ vận chuyển hộ - Khi bưu kiện hàng của Khách hàng đến kho Weshop, chúng tôi sẽ gửi email thông báo. Khách hàng sẽ nhận được hoá đơn thanh toán phí vận chuyển. Khách hàng cần thanh toán trước khi chúng tôi chuyển hàng đến cho Khách hàng.", "Điều này tuỳ thuộc vào tình trạng xử lý đơn hàng của Khách hàng. Xin vui lòng liên hệ với chúng tôi nếu Khách hàng có sự thay đổi về đơn hàng. Tuy nhiên, trong trường hợp đơn hàng đã được xử lý, Khách hàng không thể sửa hoặc huỷ bỏ.", "Nếu Khách hàng muốn đặt thêm sản phẩm, xin vui lòng tạo đơn hàng mới. Chúng tôi sẽ tách riêng hai đơn hàng nhưng vẫn đảm bảo đóng lại thành một kiện trước khi gửi đến địa chỉ nhận hàng của Khách hàng.",
+          "Bất kì chỉ dẫn liên quan đến mã giảm giá hay khuyến mại cần được cung cấp ở phần mô tả sản phẩm. Weshop không chịu trách nhiệm nếu người bán từ chối hoặc Khách hàng áp dụng sai mã giảm giá.",
+          "Khách hàng có thể thoả thuận với người bán về phần giảm giá. Sau khi đàm phán thành công Khách hàng gửi lại cho chúng tôi giá đã giảm và tên hoặc số mà Khách hàng dùng để giao tiếp với người bán khi gửi đơn đặt hàng cho chúng tôi.",
+          "Khi mua sắm tại Weshop, ngoài hai trang web lớn là ebay và amazon, Khách hàng có thể đặt hàng ở bất cứ trang web nào tại Mỹ và các quốc gia khác trên thế giới.", "Khách hàng có thể đặt bất kì loại sản phẩm nào, trừ các sản phẩm thuộc Danh mục hàng cấm",
+          "Có, VAT được tính trên cơ sở các chính sách thuế theo quy định của chính phủ. Tuy nhiên, để thuận tiện cho khách hàng, Weshop sẽ thay mặt Khách hàng trả tiền thuế VAT cho cơ quản hải quan và đưa số tiền đó vào hóa đơn thanh toán. Có nghĩa rằng, Khách hàng chỉ trả tiền cho WeShop và không cần phải làm việc với bất kỳ Bên thứ ba nào khác cho việc thanh toán VAT."
+        ]
+      },
+      {"tag": "Hỏi về kho quốc tế và vận chuyển quốc tế",
+       "patterns": [
+         "Tôi có thể tính trước chi phí vận chuyển như thế nào?",
+         "Phí vận chuyển của WeShop có bao gồm thuế phí Hải quan hay không?",
+         "Lô hàng của tôi được xử lý trong bao lâu?",
+         "Liệu hàng có về trước hoặc sau ngày hàng về dự kiến?",
+         "Tại sao kiện hàng của tôi lại được vận chuyển riêng lẻ?",
+         "Tôi có thể hủy kiện hàng của mình được không?",
+         "WeShop có thể gom các đơn hàng vào một kiện hàng được không?",
+         "Tôi có thể gom các đơn hàng của mình như thế nào?",
+         "Tôi có thể gom các đơn hàng của tôi từ các kho hàng khác nhau không?",
+         "Điều gì xảy ra nếu đơn hàng của tôi là dạng gói quà?"],
+       "responses": [
+         "Weshop tính phí vận chuyển dựa trên phí Vận chuyển quốc tế, thuế phí nhập khẩu, phí vận chuyển nội địa và phí Dịch vụ WeShop. Đối với Weshop Việt Nam, Khách hàng cần lưu ý Trọng lượng tính phí của Sản phẩm để tính toán phí vận chuyển quốc tế. Đối với những sản phẩm có cân nặng từ 0-500g : phí vận chuyển là 6$. Đối vơi những sản phẩm có cân nặng từ 550g- 1kg : phí vận chuyển là 11$. Đối với những sản phẩm từ 1kg trở lên tính là 10$/ kg ( quy ước làm tròn trên mỗi 500g). Đối với đơn hàng ship từ 1kg trở lên tính là 12$/ kg ( quy ước làm tròn trên mỗi 500g). Bắt đầu từ ngày 08/04/2017​, WeShop miễn phí hoàn toàn phí vận chuyển nội địa đối với những khách hàng tại Hà Nội và Hồ Chí Minh. Những khách hàng thuộc tỉnh, thành phố khác sẽ thu 2$/kg phí vận chuyển nội địa, giao hàng tận tay Khách hàng. Đối với phí Dịch vụ weshop, mức phí hiện đang áp dụng là 10%.",
+         "Bắt đầu từ ngày 08/04/2017, đối với WeShop Việt Nam, phí vận chuyển quốc tế đã bao gồm thuế và phí hải quan (áp dụng đối với 1 số mặt hàng, để được tư vấn chính xác hơn sẽ có nhân viên CSKH liên hệ tư vấn cụ thể).",
+         "Thời gian xử lý lô hàng phụ thuộc vào việc KHách hàng chọn phương thứcGom hàng của các kiện hàng riêng lẻ. Chúng tôi cung cấp 3 lựa chọn Goam hàng và vận chuyển hàng thuận tiện dành cho Khách hàng: Tự động tập hợp và vận chuyển hàng cùng nhau: Chúng tôi mang lại sự thuận tiện cho các Khách hàng của chúng tôi, những người không có thời gian để ghé thăm trang web để cập nhật trạng thái đơn hàng. Khách hàng có thể lựa chọn phương thức Tự động tập hợp tất cả các đơn hàng và vận chuyển cùng nhau khi chúng đến cùng một địa chỉ Kho. Tập hợp hàng và vận chuyển tất cả các đơn hàng đã đến kho BẤT CỨ KHI NÀO Khách hàng yêu cầu: Một cách khác, Khách hàng có thể vận chuyển tất cả các đơn hàng đã về kho bất cứ khi nào Khách hàng muốn. Chi phí vận chuyển của các đơn hàng đã đến kho phản ánh sự kiếm soát tốt hơn trong việc tiết kiệm chi phí. Không tập kết hàng, vận chuyển ngay lập tức khi mỗi đơn hàng đến kho: Khi Người mua thanh toán một giỏ hàng với nhiều Sản phẩm khác nhau, Người mua có thể lựa chọn giải pháp này để đảm bảo có thể nhận được các mặt hàng nhanh nhất có thể.",
+         "Điều này hoàn toàn có thể xảy ra. Ngày hàng về dự kiến là một sự ước tính, thống kê của chúng tôi cho thấy có 95% kiện hàng sẽ về đúng hoặc trước ngày hàng về dự kiến. Tuy nhiên, hàng cũng có thể về sau khoảng thời gian đó trong một số trường hợp không thể kiểm soát như là kiểm tra hải quan, chậm trễ thông quan hay thời tiết xấu có thể xảy ra.",
+         "Nếu Khách hàng không chọn hình thức Gom hàng, gói hàng của Khách hàng sẽ được vận chuyển ngay khi mỗi kiện hàng về đến Kho.",
+         "Không, một khi kiện hàng đã được tạo để vận chuyển, chúng tôi không thể hủy đơn hàng của Khách hàng vì bất cứ lý do gì. Đơn hàng có thể đã được đóng gói và xử lý tới công ty Vận chuyển thậm chí ngay cả khi trạng thái đơn hàng chưa được cập nhật.", "Nếu bạn lựa chọn gom hàng, các đơn hàng của bạn sẽ được lưu tại Kho WeShop và được gom vào một lượng gói hàng ít nhất có thể, dựa trên trọng lượng vận chuyển của các đơn hàng.",
+         "Chúng tôi sẽ thực hiện tập gom hàng cho bạn để tiết kiệm chi phí vận chuyển quốc tế, theo Cài đặt thời gian Gom hàng của bạn. Vui lòng lưu ý rằng, chỉ những đơn hàng đến cùng một kho hàng mới có thể tập hợp để vận chuyển cùng nhau.",
+         "Không, chỉ những đơn hàng từ cùng một kho hàng mới có thể gom để vận chuyển cùng nhau.",
+         "Nếu đơn hàng của Khách hàng là dạng gói quà, chúng tôi sẽ không đóng gói lại Sản phẩm."]
+      },
+      {"tag": "Hỏi về kiểm đếm hàng",
+       "patterns": [
+         "Tại sao cần phải có bước kiểm tra?",
+         "Weshop sẽ kiểm tra những phần nào?",
+         "Sự khác nhau giữa những lỗi dễ thấy được và các vấn đề liên quan đến chất lượng là gì?",
+	     "Weshop có kiểm tra kích cỡ của sản phẩm không?",
+         "Việc kiểm tra thông thường kéo dài bao lâu?",
+         "Weshop có kiểm tra chức năng của thiết bị điện tử không?",
+	     "Weshop có thể nhận xét sản phẩm là thật hay giả không?",
+         "Tôi có thể kiểm tra sản phẩm thông qua hình ảnh trước khi chúng được vận chuyển khỏi kho hàng?"
+       ],
+       "responses": [
+         "Đối với hình thức mua sắm trực tuyến nước ngoài, người mua không được nhận đảm bảo với các sản phẩm đã mua ngay cả khi người bán có cung cấp hình thức đổi hàng hoặc hoàn trả. Khi mua hàng từ nước ngoài về, phí vận chuyển quốc tế cao và thời gian hàng về lâu là những vấn đề chính. Đối với Weshop, chúng tôi tiến hành kiểm tra cơ bản để biết được những lỗi từ phía bên bán gây ra khi nhận hàng từ kho. Thông thường, hơn 90% lỗi có thể phát hiện ra và xử lý trực tiếp với người bán. Chúng tôi giảm thiểu thiệt hại cho khách hàng ngay từ ban đầu.",
+         "Những vấn đề liên quan đến kiểm tra cơ bản như số lượng, màu sắc, kích cỡ, thiết kế và những lỗi có thể thấy được ngay.",
+         "Những lỗi dễ thấy được thường là những hư hại bên ngoài mà chúng ta có thể dễ dàng quan sát được, chẳng hạn như các vết rách trên vải, kính vỡ, túi xách bị rách, đồ gỗ bị rạn nứt. Các vấn đề liên quan đến chất lượng bao gồm những hình thức khác mà không thể quan sát từ bên ngoài chẳng hạn như vết khâu trên cổ áo, vết xước ở kim loại, bóng đèn, máy tính chạy chậm.",
+         "Chúng tôi không kiểm tra kích cỡ sản phẩm, nhưng chúng tôi có kiểm tra nhãn dán trên sản phẩm nhận được và đối chiếu với kích cỡ hiển thị trên nhãn mà bạn đặt hàng (chẳng hạn như size S, M, L hay XL). Nếu không có nhãn dán trên sản phẩm hay kích cỡ khác, chúng tôi sẽ cho rằng thông số đã đúng.",
+         "Theo thông thường, kiểm tra kéo dài từ 1 - 2 ngày làm việc, tùy thuộc vào mùa cao điểm hay không.",
+         "Không, việc kiểm tra không bao gồm mục kiểm tra chức năng. Việc kiểm tra cơ bản có thể được tiến hành theo yêu cầu.",
+         "Không, chúng tôi không thể kiểm tra sản phẩm là hàng chĩnh hãng hay không. Thông tin của sản phẩm có thể tìm thấy ở bản mô tả sản phẩm trên trang web. Khách hàng cũng có thể tham khảo những nhận xét khác về sản phẩm, tuy nhiên thường những sản phẩm quá rẻ so với thị trường đều có khả năng là hàng giả.",
+         "Khách hàng có thể yêu cầu kiểm tra sản phẩm trước khi chúng được vận chuyển. Đối với những sản phẩm có thiết kế khác nhau mà khó nhận ra trong khi kiểm tra, chúng tôi có cung cấp thêm hình ảnh các sản phẩm này nếu có yêu cầu. Nếu có phát hiện ra sự khác nhau/thiếu sót trong lúc kiểm tra, chúng tôi vẫn đính kèm hình ảnh để khách hàng dễ quyết định."]
+      },
+	  {"tag": "Hỏi về gói lại hàng",
+       "patterns": [
+         "Dịch vụ đóng kiện lại là gì? Dịch vụ này hoạt động như thế nào?",
+         "Weshop có thể làm giảm kích cỡ của kiện hàng to như là chia thành những kiện hàng nhỏ hay không?",
+         "Tại sao trọng lượng kiện hàng của tôi không giảm đi sau khi đã đóng gói lại?",
+         "Có loại gói hàng nào mà không thể vứt bỏ trong quá trình đóng gói lại không?",
+         "Tôi có thể yêu cầu mua thêm gói dịch vụ để đảm bảo tình trạng ban đầu của gói hàng trong suốt quá trình đóng gói lại không?"
+       ],
+       "responses": [
+         "Weshop có cung cấp dịch vụ đóng kiện lại như là dịch vụ giá trị gia tăng. Như bạn đã biết, phí vận chuyển quốc tế phụ thuộc vào trọng lượng và kích thước của kiện hàng. Khi kiện hàng được người bán gửi đến bị quá cân nặng, dịch vụ của chúng tôi sẽ loại bỏ nhưng phần không cần thiết và sắp xếp lại sao cho gọn. Điều này sẽ làm giảm cân nặng, dẫn đến cước vận chuyển quốc tế sẽ giảm xuống. Ngoài ra, khi đóng kiện lại cũng cải thiện kiện hàng ban đầu đối với kiện hàng được đóng gói không cẩn thận, nhằm giúp giảm đi tổn thất do đóng gói không cẩn thận trong suốt quá trình vận chuyển quốc tế.",
+         "Chúng tôi có thể. Nếu kiện hàng của bạn bao gồm cả kiện to và nhỏ, chúng tôi sẽ đóng gói lại thành một kiện hàng để tiết kiệm chi phí vận chuyển.",
+         "Dịch vụ đóng gói lại sẽ làm giảm trọng lượng của kiện hàng bị quá cân. Tuy nhiên, nếu không còn chỗ để tối ưu hóa không gian kiện hàng hơn, trọng lượng của kiện hàng sẽ không được giảm thêm",
+         "Có. Đóng gói ban đầu của những sản phẩm để trang trí hay bộ sưu tập sẽ không bị bỏ đi. Những gói hàng chứa sản phẩm dể vỡ cũng sẽ được giữ nguyên bản; Chẳng hạn như: gói hàng đồ chơi, đồ trang sức, giày cao gót, thủy tinh…",
+         "Bạn hoàn toàn có thể. Nếu việc đảm bảo là cần thiết cho những sản phẩm như quà tặng, những sản phẩm dùng để bán lại thì chúng tôi vẫn có thể cung cấp dịch vụ kèm theo này bằng cách khách hàng gửi hướng dẫn cụ thể khi đặt hàng. Đối với những sản phẩm dễ vỡ, chúng tôi khuyên khách hàng gói hàng đảm bảo cẩn thận trước khi các món hàng đến kho."
+       ]
+      },
+	  {"tag": "Hỏi về giao hàng tới tay",
+       "patterns": [
+         "Tôi có thể trả tiền mặt khi nhận hàng không?",
+         "Weshop có giao hàng đến văn phòng hoặc địa chỉ thương mại không?",
+         "Weshop có chuyển hàng trong giờ làm việc không?",
+         "Thời gian chuyển hàng đến nhà mất bao lâu?", "Tôi có thể yêu cầu chuyển hàng vào một thời gian nhất định?",
+         "Weshop có gửi thông báo trước khi người giao hàng đến không?",
+         "Làm cách nào để tôi có thể thay đổi địa chỉ nhận hàng?",
+         "Weshop có thể chuyển hàng đến bất kì địa chỉ nào không?",
+         "Điều gì sẽ xảy ra nếu tôi không ở nhà khi bưu kiện được gửi đến?"
+       ],
+       "responses": [
+         "Chúng tôi có cung cấp dịch vụ -giao hàng thu tiền-. Tuy nhiên, bạn chỉ có thể thanh toán bằng hình thức này khi hóa đơn thanh toán lần 1 đã được thanh toán.",
+         "Chúng tôi có cung cấp dịch vụ giao hàng đến địa chỉ văn phòng và địa chỉ thương mại theo yêu cầu của Khách hàng. Thời gian giao hàng là trong giờ hành chính.", "WeShop chỉ giao hàng trong giờ làm việc (giờ hành chính). Tuy nhiên, đối với một số trường hợp đặc biệt, ví dụ hàng quá cân, hàng cồng kềnh, WeShop hỗ trợ giao hàng về tận nhà Khách hàng ngoài giờ làm việc, theo yêu cầu cụ thể của Khách hàng.", "Thông thường thời gian chuyển hàng từ 1-2 ngày làm việc (với địa chỉ nhận hàng tại Hà Nội, Hồ Chí Minh và các thành phố lớn trong cả nước) hoặc 3-5 ngày làm việc (với các địa chỉ tuyến huyện, xã) từ ngày kể từ ngày chúng tôi thông báo hàng đã về tới Việt Nam. Do vậy, bạn nên chắc chắn có người ở nhà để nhận bưu phẩm vào ngày đã chọn. Lưu ý: Trong các mua cao điểm như Giáng Sinh, Năm mới, Tết nguyên đán và các ngày quốc lễ khác hoặc các yếu tố bất lợi như lũ lụt, động đất, thời tiết xấu... thời gian vận chuyển có thể dài hơn đôi chút. Các mặt hàng cần đảm bảo cẩn trọng như hàng dễ vỡ, nước hoa, dung dịch... thời gian vận chuyển cũng sẽ lâu hơn thông thường đôi chút.", "Chúng tôi không thể chắc chắn giao hàng cho bạn chính xác vào lúc mấy giờ. Chúng tôi sẽ thông báo trước khoảng thời gian giao hàng.", "Bạn sẽ nhận được điện thoại vào ngày chúng tôi giao hàng. Chúng tôi cũng sẽ thông báo khoảng thời gian giao hàng, tuy nhiên thời gian giao hàng thực tế có thể sớm hoặc muộn hơn thời gian chúng tôi ước chừng.", "Để đổi địa chỉ nhận hàng chung cho tài khoản của bạn, bạn vui lòng thực hiện như sau: 1. Đăng nhập vào tài khoản trên Weshop . 2. Vào mục Cài đặt tài khoản 3. Tại mục Thông tin chung, Địa chỉ giao hàng của bạn, bạn vui lòng click nút Sửa và cập nhật lại địa chỉ của mình . Để đổi địa chỉ nhận hàng cho 1 đơn hàng chưa thanh toán, bạn vui lòng truy cập link hóa đơn của đơn hàng đó, nhập lại địa chỉ nhận hàng và bấm nút -Thanh toán- để xác nhận thay đổi địa chỉ. Để đổi địa chỉ nhận hàng cho 1 đơn hàng đã thanh toán (hàng chưa về tới Việt Nam), bạn vui lòng gửi email tới địa chỉ support@weshop.com.vn với nội dung sau để được hỗ trợ: Tiêu đề email: Đơn hàng số ... - Yêu cầu đổi địa chỉ Nội dung: Địa chỉ cũ: Địa chỉ mới: Khi nhận được thông tin, chúng tôi sẽ cập nhật lại địa chỉ của bạn và gửi email xác nhận tới bạn.", "Chúng tôi có thể chuyển đến bất kì địa chỉ nào (trừ nhận hàng tại bưu điện). Trong trường hợp bạn sống ở vùng xa trung tâm, bạn có thể sẽ phải nhận hàng ở điểm giao nhận hàng nhanh gần khu vực bạn sống.", "Nếu bên dịch vụ giao hàng không giao hàng thành công cho người mua, họ sẽ cố gắng liên hệ với người mua để hẹn thời gian giao hàng lần thứ hai. Nếu lần giao hàng sau cũng không thành công, bên vận chuyển sẽ hoàn trả lại gói hàng cho chúng tôi. Chúng tôi sẽ gửi hàng lại cho người mua khi nhận được xác nhận về việc nhận hàng, người mua có thể sẽ phải trả phí cho lần giao hàng lại này." ]
+      },
+	  {"tag": "Khiếu nại và sau bán hàng",
+       "patterns": [
+         "Weshop có chịu trách nhiệm về chất lượng kém, hàng giả và vấn đề liên quan đến chức năng?",
+         "Điều gì sẽ xảy ra nếu hàng của tôi nhận được trong tình trạng hư hỏng?",
+         "Chưa nhận được hàng và tôi nghi ngờ hàng bị thất lạc. Tôi nên làm gì?",
+         "Thiết bị điện tử/kĩ thuật số của tôi không hoạt động, nhưng không có dấu hiệu hư hỏng nhìn thấy được. Tôi phải làm sao?",
+         "Bên bán hàng chào bán “Mua một tặng một”, nhưng tôi không nhận được quà tặng đó. Tôi phải làm gì?",
+         "Làm cách nào để tạo yêu cầu khiếu nại khi hàng bị mất hoặc bị hư hỏng?",
+         "Tôi có thể đổi kích cỡ và màu sắc khác với bên bán hàng không?",
+         "Tôi có được hoàn tiền từ bên bán hàng nếu sản phẩm có lỗi chất lượng?",
+         "Làm thế nào tôi có thể trả lại những mặt hàng lỗi hoặc hư hỏng cho Weshop?",
+         "Cách thức hoàn tiền như thế nào?"
+       ],
+       "responses": [
+         "Không, chúng tôi không liên quan đến việc kiểm tra hoặc giám định những khía cạnh  này của sản phẩm, chính vì vậy, chất lượng sản phẩm, hàng thật và chức năng của sản phẩm nằm ngoài tầm kiểm soát của chúng tôi. Bạn nên chọn mua những sản phẩm của người bán hàng có uy tín cao để tránh gặp phải những trường hợp như vậy. Tuy nhiên, khi mua hàng trực tuyến ở nước ngoài sẽ không tránh khỏi điều này.",
+         "Nếu hàng của bạn rõ ràng bị hư hỏng, xin vui lòng ghi chú vào biên lai giao nhận hàng mà người vận chuyển hoặc bên vận chuyển yêu cầu kí nhận. Sau đó bạn mở gói hàng của mình ra và kiểm tra những dấu hiệu hư hỏng của hàng.Nếu gói hàng được xác nhận đã bị hư hỏng, xin vui lòng tạo khiếu nại trong tài khoản của bạn tại Weshop trong vòng 24 giờ kể từ khi nhận hàng. Quan trọng nhất là bạn phải giữ hóa đơn mua hàng bản gốc và những hình ảnh về sản phẩm bị hư hỏng. Trong trường hợp thiết bị điện tử bị hư hỏng, bạn được yêu cầu cung cấp những tài liệu chứng minh rằng thiết bị không thể sửa chữa được. Đừng quên giữ lại tất cả những hàng hóa bị hỏng và hộp gói hàng để hoàn trả chúng cho chúng tôi khi được yêu cầu. Việc bảo vệ này không áp dụng cho các trường hợp mất hoặc hư hỏng do các nguyên nhân dưới đây: Lỗi cố tình của bạn . Hao mòn thông thường Trì hoãn, chậm trễ . Lỗi điện tử hoặc không hoạt động của hàng hóa mà không có bất kì hư hỏng có thể nhìn thấy được",
+         "Trước hết, bạn cần kiểm tra lại tình trạng di chuyển của gói hàng bằng cách nhấn vào nút - THEO DÕI ĐƠN HÀNG- ở tab trên cùng của weshop, nhập mã đơn hàng và kiểm tra. Nếu Đơn hàng không có tình trạng cụ thể và hàng đã quá thời gian chờ hàng dự kiến, bạn vui lòng đăng nhập vào tài khoản của bạn trên Weshop, vào mục Cài đặt tài khoản, chọn tab Đơn hàng. Tại chi tiết đơn hàng, bạn vui lòng bấm - Tạo khiếu nại -  và điền đầy đủ thông tin cần kiểm tra. Chúng tôi sẽ kiểm tra và phản hồi lại bạn trong thời gian sớm nhất có thể.",
+         "Weshop sẽ chỉ xử lý những đơn hàng mà những hư hỏng có thể nhìn thấy được. Xin vui lòng kiểm tra chi tiết thông tin về điện áp và bộ nguồn. Sau khi đã kiểm tra mà thiết bị vẫn không hoạt động, bạn cần liên hệ với bên bán hàng.",
+         "Có một số lý do cho nguyên nhân không nhận được “quà tặng” đó như: khuyễn mại đã hết hạn, số lượng có hạn, hoặc có thể phần quà đó được gửi riêng ra và đến vào một thời gian khác. Bất cứ khi nào bạn nhận sản phẩm nhưng không đúng mẫu đã đặt, bạn cần liên hệ trực tiếp với bên bán hàng (Dịch vụ chuyển hàng giúp tôi) hoặc tạo khiểu nại trên tài khoản Weshop của bạn (Dịch vụ mua hàng giúp tôi).",
+         "Để tạo yêu cầu khiếu nại khi hàng bị mất hoặc hư hỏng, bạn cần thực hiện như sau: 1. Đăng ký tài khoản trên Weshop theo email và số điện thoại bạn đã đặt hàng trên trang web của chúng tôi (Nếu bạn chưa có tài khoản Weshop) 2. Đăng nhập tài khoản Weshop 3. Vào mục Cài đặt tài khoản >> Chọn mục Đơn hàng 4. Tìm kiếm đơn hàng cần mở khiếu nại 5. Bấm nút tạo khiếu nại, điền thông tin chi tiết khiếu nại cũng như tải lên toàn bộ hình ảnh bằng chứng đi kèm (nếu có) Chúng tôi sẽ phản hồi lại bạn sớm nhất khi có thể. Lưu ý: Trong trường hợp bạn không tìm thấy trong tài khoản, có thể thông tin đơn hàng của bạn đăng ký sai email hoặc số điện thoại, bạn vui lòng liên hệ trực tiếp chúng tôi qua chat online, email hoặc số điện thoại tổng đài trong giờ hành chính. Chúng tôi sẽ kiểm tra và phản hồi bạn sớm nhất có thể.",
+         "Bạn có thể, nhưng còn phụ thuộc vào cam kết của bên bán hàng. Bạn có thể gửi yêu cầu cho chúng tôi, chúng tôi sẽ giúp bạn đàm phán với bên bán hàng. Trong trường hợp người bán đồng ý đổi, bạn có thể phải trả tất cả phí vận chuyển phát sinh trong quá trình đổi hàng.", "Điều này còn phụ thuộc vào bên bán hàng, vì không phải tất cả Người bán nào cũng chấp chập hoàn tiền. Giải pháp điển hình được đưa ra bởi Người bán là hoàn trả một phần hoặc hoàn trả sản phẩm để nhận hoàn trả tất cả số tiền, sửa chữa hoặc đổi hàng, ... Chúng tôi có thể giúp bạn thương lượng với Người bán để tìm ra giải pháp có thể sau khi nhận được phản hồi về vấn đề được phản ánh bằng hình ảnh và mô tả. Bạn có thể phải chịu phí vận chuyển phát sinh trong suốt quá trình. Tuy nhiên, một số người bán từ chối trách nhiệm với các vấn đề của sản phẩm, do đó họ không chấp nhận bất kì hình thức đền bù thiệt hại nào.",
+         "Mọi yêu cầu hoàn trả cần được thông báo lại chúng tôi qua chức năng khiếu nại đơn hàng trong tài khoản của bạn trên Weshop trong vòng 24 giờ kể từ khi nhận được hàng. Chúng tôi sẽ kiểm tra và xác minh từng trường hợp để kiểm tra đơn hàng có được pháp hoàn lại hàng hay không. Nếu có, chúng tôi sẽ có hướng dẫn chi tiết tới bạn qua chức năng khiếu nại đơn hàng. Hàng hoàn trả phải đảm bảo nguyên hiện trạng ban đầu và được chuyển đến những điểm nhận hàng của chúng tôi hoặc nhân viên giao hàng tận nhà trong suốt quá trình vận chuyển tiếp theo. Sự hoàn trả mà chưa có sự đồng ý sẽ không được chấp nhận và chúng tôi sẽ không chịu trách nhiệm nếu sản phẩm hoàn trả này bị mất hoặc hư hỏng bởi thiếu hồ sơ theo dõi.", "Quy định: - Thời gian nhận hoàn: 5-7 ngày làm việc (không tính thứ 7 Chủ nhật & ngày lễ) - Hình thức nhận hoàn: + Đối với KH thanh toán tại VP: KH có thể nhận tiền hoàn bằng cách lên VP nhận trực tiếp hoặc nhận hoàn qua tài khoản Ngân Hàng. + Đối với KH thanh toán bằng các hình thức visa, ngân hàng, internet banking... theo quy định của Weshop 100% sẽ hoàn qua ngân lượng (tài khoản ví ngân lượng sẽ được tạo trước hoặc sau khi mua hàng theo email của Khách hàng tạo đơn hàng Weshop). Lưu ý: Weshop chỉ hoàn tiền trên giá trị đơn hàng đã thanh toán. Không hoàn phí giao dịch với ngân hàng (phí quy định của ngân hàng)."
+       ]
+      },
+
+	  {"tag": "Dịch vụ Chuyển hàng giúp tôi",
+       "patterns": [
+         "Làm thế nào để tôi có được địa chỉ kho hàng Weshop?",
+         "Hóa đơn mua hàng là gì?", "Làm thế nào để yêu cầu hóa đơn mua hàng từ Người Bán?",
+         "Hoá đơn của người bán giúp tôi nhận hàng nhanh hơn như thế nào?",
+         "Weshop có chấp nhận hoá đơn thương mại bằng các đồng tiền khác ngoài USD?",
+         "Tại sao tôi cần phải nhập giá trị hàng hóa của tôi ?", "Làm thế nào để tôi nhập giá trị hàng hóa?",
+         "Giá trị tính phí cho hàng đã qua sử dụng?",
+         "Tôi có phải nhập số Suite trong phần địa chỉ chuyển hàng khi đặt hàng không?",
+         "Tôi cần làm gì nếu tôi đã điền địa chỉ kho hàng ở Mỹ không chính xác?"
+       ],
+       "responses": [
+         "Với Dịch vụ Chuyển hàng giúp tôi, Weshop cung cấp cho Khách hàng một địa chỉ kho hàng miễn phí. Khách hàng có thể sử dụng địa chỉ kho hàng này như là địa chỉ gửi hàng khi tiến hành thanh toán trên website của Người bán. Đồng thời, đây cũng là địa chỉ kho hàng của Khách hàng để hàng được gửi về từ Người bán khi sử dụng dịch vụ Mua hàng giúp tôi. Để nhận địa chỉ kho hàng Weshop, Khách hàng cần làm theo các bước sau: Bước 1: Tạo tài khoản trên weshop.com.vn và làm theo hướng dẫn trên màn hình . Bước 2: Vào email cá nhân khi đăng ký tài khoản để kích hoạt tài khoản . Bước 3: Sử dụng tài khoản đã đăng ký để đăng nhập vào Weshop . Bước 4: Vào phần Cài đặt tài khoản, bạn sẽ thấy một mã số Khách hàng (Suite number) đã được tự động tạo ra, và địa chỉ kho hàng của Weshop tại các quốc gia trên thế giới. Bạn có thể sử dụng Địa chỉ kho hàng cùng với mã số Khách hàng để tiến hành mua sắm tại bất cứ website nào mà bạn muốn. ",
+         "Hóa đơn mua hàng hoặc biên lai thanh toán, là căn cứ cho thấy số tiền Khách hàng đã trả cho Người bán. Hoá đơn có thể bao gồm đầy đủ hoặc không đầy đủ thông tin của Người bán như tên, địa chỉ, số điện thoại,...Rất nhiều Người bán tự động đính kèm hóa đơn mua hàng trong gói hàng hoặc gửi hoá đơn điện tử qua email . Hãy giữ lại các hóa đơn mua hàng để cung cấp cho Weshop hoặc khi được yêu cầu bởi Weshop. ",
+         "Rất nhiều Người bán tự động gửi hóa đơn trong gói hàng. Trong một số trường hợp cần thiết, Khách hàng có thể yêu cầu bên bán cung cấp hóa đơn bằng giấy. Nếu Người bán gửi Biên lai thanh toán hoặc hoá đơn qua email, Khách hang có thể yêu cầu họ đính kèm hóa đơn trong gói hàng. Nếu Khách hàng mua hàng của người bán Ebay hay Người bán cá nhân, Khách hàng cần phải gửi email cho người bán và yêu cầu hóa đơn thương mại chỉ rõ tên, địa chỉ của Người bán và giá hàng hóa Khách hàng phải trả. Ghi chú đặc biệt với mặt hàng quà tặng: Trong trường hợp mặt hàng Khách hàng đặt là quà tặng, Người bán có thể gửi hóa đơn mua hàng nhưng không có giá trị hàng hóa. Khi hàng về, nếu chúng tôi chỉ nhận được hoá đơn hàng quà tặng chứ không phải là hóa đơn mua hàng, Khách hàng sẽ phải cung cấp các thông tin khác trước khi Weshop xuất kho giao hàng.",
+         "Theo luật xuất khẩu Mỹ, Weshop phải có hoá đơn đặt hàng thực tế của sản phẩm mà chúng tôi xuất đi. Trong một số trường hợp, chúng tôi phải có đầy đủ thông tin tên và địa chỉ của người bán. Khi WeShop nhận được gói hàng với hóa đơn thương mại bao gồm giá trị hàng hóa, chúng tôi sẽ nhập các giá trị, thông tin tên người bán và địa chỉ cho Khách hàng. Trong hầu hết các trường hợp, chúng tôi sẽ không cần bất kỳ thông tin bổ sung từ phía khách hàng, do đó, các hóa đơn thương mại có thể giúp Khách hàng nhận sản phẩm đặt mua một cách nhanh chóng hơn. Nếu gói hàng của Khách hàng không có hóa đơn thương mại kèm theo, hoặc nếu hoá đơn không hiển thị giá phải trả cho người bán, chúng tôi có thể không xuất được các gói hàng của Khách hàng cho đến khi chúng tôi nhận được thông tin này. Bất kỳ gói hàng nào cũng đòi hỏi đầy đủ các thông tin về giá trị hoặc hoá đơn có thể được tìm thấy trong Mục Thông báo trong tài khoản của Khách hàng.",
+         "Có. Chúng tôi sẽ chuyển đổi giá sang USD theo tỷ giá hiện hành trong trường hợp hóa đơn thương mại hiển thị một loại tiền tệ khác.",
+         "Theo quy định của chính phủ Mỹ, WeShop được yêu cầu phải định giá đúng hàng hóa và làm các thủ tục kê khai hải quan bằng cách nhập các thông tin được cung cấp trên các hóa đơn thương mại/biên lai đính kèm các gói hàng. Hoá đơn này liệt kê các giá trị, số lượng và mô tả của các danh mục. Nếu gói hàng của Khách hàng không bao gồm hóa đơn thương mại, hoặc nếu nó không hiển thị giá trị của hàng hóa, chúng tôi sẽ yêu cầu Khách hàng nhập các giá trị trước khi chuyển hàng đi.",
+         "Nếu chúng tôi nhận được một gói hàng/yêu cầu chuyển hàng hộ nhưng gói hàng không có hóa đơn thương mại hoặc hóa đơn không hiển thị giá trị của hàng hóa, chúng tôi sẽ yêu cầu bạn cung cấp thông tin giá trị hàng hóa. Thông tin này được yêu cầu cho việc kê khai hải quan. Bạn có thể tìm thấy giá trị hàng hóa trên hóa đơn thanh toán với người bán hoặc ở xác nhận đặt hàng mà người bán gửi cho Khách hàng. Để nhập giá trị hàng hóa, bạn cần thực hiện như sau: Đăng nhập vào tài khoản . Vào phần Cài đặt tài khoản >> Click vào mục Vận chuyển >> Thông báo . Vào đơn hàng bạn cần khai báo giá trị, bấm vào biểu tượng  - Sửa -  Nhập giá sản phẩm . Ấn vào ô Xác nhận . Nếu giá trị được chấp nhận, kiện hàng của Khách hàng sẽ chuyển sang phần Sẵn sàng gửi hàng . Nếu giá trị không được chấp nhận, bạn sẽ được yêu cầu tải hoá đơn. Lưu ý, gói hàng có thể sẽ chưa sẵn sàng để gửi cho Khách hàng đến khi Khách hàng nhập đúng giá trị.",
+         "Giá trị tính phí cho hàng đã qua sử dụng chính là giá trị của hàng hóa đó.", "Có - Mã kho hàng là định danh duy nhất của Khách hàng và là căn cứ để xác định gói hàng được gửi đến kho hàng của Weshop thuộc về Khách hàng nào. Khi Khách hàng đăng nhập vào tài khoản của mình và bấm vào - kho hàng của tôi- , địa chỉ vận chuyển tới kho hàng của WeShop sẽ được hiển thị theo một định dạng chuẩn và phổ biến nhất. Nếu Mã kho hàng không bao gồm trên địa chỉ giao hàng, chúng tôi có thể gặp khó khăn và mất nhiều thời gian trong việc xác định nó là gói hàng của Khách hàng. Nếu Khách hàng đang chờ hàng đến nhưng không thấy thông báo Giao hàng từ WeShop, xin hãy liên hệ Bộ phận Hỗ trợ khách hàng. Chúng tôi sẽ xác định vị trí gói hàng của Khách hàng nếu Người bán không đính kèm Mã kho hàng chính xác trên các nhãn địa chỉ. Các mặt hàng không được xác định sau 90 ngày sẽ được xử lý theo quy định của Weshop.",
+         "Trong trường hợp bạn ghi sai địa chỉ kho hàng tại Mỹ không chính xác, bạn cần liên hệ người bán để sửa đổi thông tin nhận hàng. Nếu bạn không yêu cầu sửa đổi địa chỉ, chúng tôi sẽ không nhận được món hàng đó, hàng sẽ được hoàn lại người bán. Bạn cần liên hệ lại người bán để xác nhận lại thông tin vận chuyển của gói hàng. "
+       ]
       }
+
+
    ]
 }
